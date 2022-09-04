@@ -1,3 +1,6 @@
+# DO NOT USE THIS REPOSITORY EXPECTING IT TO WORK
+This repository is for me to learn from, so it probably won't work as you want it to.
+
 # Stable Diffusion
 *Stable Diffusion was made possible thanks to a collaboration with [Stability AI](https://stability.ai/) and [Runway](https://runwayml.com/) and builds upon our previous work:*
 
